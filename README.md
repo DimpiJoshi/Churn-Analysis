@@ -15,12 +15,12 @@ The project analyzes different univariate and bivariate factors that affect cust
 # Conclusion
 Suggestions from analysis
 # Installation
-    - Python
-    - Jupyter Notebook (for running the analysis notebooks)
-    - pip install Numpy
-    - pip install Pandas
-    - seaborn
-    - matplotlib
+1. Python
+2. Jupyter notebook (for running the analysis notebooks)
+3. pip install Numpy
+4. pip install Pandas
+5. seaborn
+6. Matplotlib
 # Data Collection
 Provided by the client company. 
 # Data Demographics
